@@ -1,2 +1,3 @@
-# example-web-static-html
-Example website using static html. The website can be used within cloud hosting labs.
+# Example Website: Static HTML
+
+Example website using static HTML. The website can be used within cloud hosting labs.
